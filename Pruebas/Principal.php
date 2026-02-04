@@ -160,7 +160,7 @@ $principal = new Principal();
 $opcion = null;
 
 while (true) {
-    echo "\nElija una opción:\n";
+    echo "\nSeleccione una opción:\n";
     echo "a) Probar el patrón Creacional Singleton\n";
     echo "b) Probar el patrón Creacional Factory\n";
     echo "c) Probar el patrón Creacional Builder\n";
