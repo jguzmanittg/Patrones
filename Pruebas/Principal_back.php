@@ -147,7 +147,7 @@ while (true) {
     echo "a) Probar el patrón Creacional Singleton\n";
     echo "b) Probar el patrón Creacional Factory\n";
     echo "c) Probar el patrón Creacional Builder\n";
-    echo "d) Probar el patrón De comportamiento Observer\n";
+    echo "d) Usar el patrón De comportamiento Observer\n";
     echo "e) Probar el patrón De comportamiento Estrategy\n";
     echo "f) Probar el patrón Estructural Adapter\n";
     echo "g) Probar el patrón Estructural Composite\n";
