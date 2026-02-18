@@ -167,7 +167,7 @@ while (true) {
     echo "d) Probar el patrón De comportamiento Observer\n";
     echo "e) Probar el patrón De comportamiento Estrategy\n";
     echo "f) Probar el patrón De comportamiento Command\n";
-    echo "g) Probar el patrón Estructural Adapter\n";
+    echo "g) Usar el patrón Estructural Adapter\n";
     echo "h) Probar el patrón Estructural Composite\n";
     echo "i) Probar el patrón Estructural Decorator\n"; // Nueva opción para Decorator
     echo "z) Salir\n";
