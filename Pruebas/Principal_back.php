@@ -152,7 +152,7 @@ while (true) {
     echo "f) Probar el patrón Estructural Adapter\n";
     echo "g) Probar el patrón Estructural Composite\n";
     echo "h) Probar el patrón Estructural Decorator\n"; // Nueva opción para Decorator
-    echo "z) Salir\n";
+    echo "z) Retirar\n";
 
     $opcion = trim(fgets(STDIN));
 
