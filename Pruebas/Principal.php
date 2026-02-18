@@ -163,7 +163,7 @@ while (true) {
     echo "\nEscoja una opción:\n";
     echo "a) Probar el patrón Creacional Singleton\n";
     echo "b) Probar el patrón Creacional Factory\n";
-    echo "c) Probar el patrón Creacional Builder\n";
+    echo "c) Usar el patrón Creacional Builder\n";
     echo "d) Probar el patrón De comportamiento Observer\n";
     echo "e) Probar el patrón De comportamiento Estrategy\n";
     echo "f) Probar el patrón De comportamiento Command\n";
